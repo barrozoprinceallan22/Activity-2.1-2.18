@@ -7,7 +7,7 @@ public class ArithmeticOperators {
         int j = 42;
         double x = 27.475;
         double y = 7.22;
-
+ 
         System.out.println("Variable values...");
         System.out.println("i = " + i);
         System.out.println("j = " + j);

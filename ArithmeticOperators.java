@@ -2,7 +2,7 @@
 BSIT NETSEC 1-1*/
 public class ArithmeticOperators {
     public static void main(String[] args) {
-
+ 
         int i = 37;
         int j = 42;
         double x = 27.475;
